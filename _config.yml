@@ -139,7 +139,7 @@ yat:
 # Page default value
 defaults:
    home:
-     heading: "Your awesome heading~"
+     heading: "Your awesome heading~~"
      subheading: "Your awesome subheading~"
      banner: "Your image url"
 
