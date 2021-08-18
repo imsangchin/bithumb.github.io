@@ -3,5 +3,5 @@
 ## 스위프트 공부
 
 스위프트 공부 내용을 공유 합니다!!!!
-[coffee](https://user-images.githubusercontent.com/5723502/129854904-20369ec6-8cc0-4fd0-a84a-99e8c22510ad.jpg)
+![coffee](https://user-images.githubusercontent.com/5723502/129856469-2bd4e655-bca5-436f-9b71-d4518314a4c0.jpg)
 
